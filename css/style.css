@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 5px rgb(207, 74, 207);
+    color: white;
+}
+
+#gamesnake {
+    width: 512px;
+    height: 512px;
+
+}
